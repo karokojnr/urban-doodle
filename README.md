@@ -1,4 +1,4 @@
-# todo-ninja
+# vue-todo
 
 ## Project setup
 ```
